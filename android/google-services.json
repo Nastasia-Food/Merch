@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558831640019",
+    "project_id": "nastasia-merch",
+    "storage_bucket": "nastasia-merch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558831640019:android:e2a8debc7b3ccd0f612326",
+        "android_client_info": {
+          "package_name": "pro.natalee.nastasiamerch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_1gNooUwDArJ1Ozz1tHpsYh1LKBMEL20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
