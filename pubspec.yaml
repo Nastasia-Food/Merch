@@ -35,7 +35,7 @@ dependencies:
   cupertino_icons: ^1.0.5
   get: ^4.6.5
   pandabar: ^0.1.2
-  getwidget: ^4.0.0
+  getwidget: ^5.0.0
   flutter_rating_bar: ^4.0.1
   font_awesome_flutter: ^10.2.1
   google_fonts: ^6.2.1
