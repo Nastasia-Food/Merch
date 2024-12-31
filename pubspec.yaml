@@ -49,7 +49,7 @@ dependencies:
   syncfusion_flutter_core: ^25.2.7
   syncfusion_flutter_sliders: ^25.2.7
   http: ^1.2.1
-  email_validator: ^2.1.17
+  email_validator: ^3.0.0
   shared_preferences: ^2.0.15
   google_maps_flutter: ^2.2.1
   location: ^7.0.1
