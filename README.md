@@ -4,6 +4,10 @@
 
 Welcome to the official repository for **Nastasia-Food Merch**, the flagship project that integrates ethical merchandise production with cutting-edge technology. This project embodies our commitment to sustainability, innovation, and community engagement.
 
+https://api.codemagic.io/apps/6798e643862da8e63b261c58/6798e643862da8e63b261c57/status_badge.svg
+
+[![Codemagic build status](https://api.codemagic.io/apps/6798e643862da8e63b261c58/6798e643862da8e63b261c57/status_badge.svg)](https://codemagic.io/app/6798e643862da8e63b261c58/6798e643862da8e63b261c57/latest_build)
+
 ---
 
 ## 🌟 Key Features
